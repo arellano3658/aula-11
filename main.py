@@ -18,3 +18,5 @@ if nome in nota.keys():
 else:
  print("aluno inexistente!")
 print(nota)
+
+print("ola, mundo")
